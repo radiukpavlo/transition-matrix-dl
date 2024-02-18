@@ -15,12 +15,12 @@ This is the **official repository** for the paper "*Explainable Deep Learning: A
 ## Citation
 If you make use of our work, please cite our paper:
 
-```bibtex
-@inproceedings{baldrati2023multimodal,
-  title={Explainable Deep Learning: A Visual Analytics Approach with Transition Matrices},
-  author={Pavlo Radiuk, Olexander Barmak, Eduard Manziuk and Iurii Krak},
-  journal={Mathematics},
-  year={2024}
+```BibTeX
+@Article{radiuk2024,
+  TITLE={Explainable Deep Learning: A Visual Analytics Approach with Transition Matrices},
+  AUTHOR={Pavlo Radiuk, Olexander Barmak, Eduard Manziuk and Iurii Krak},
+  JOURNAL={Mathematics},
+  YEAR={2024}
 }
 ```
 
