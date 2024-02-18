@@ -1,0 +1,12 @@
+jupyterlab
+matplotlib
+mlxtend
+notebook
+numpy
+pandas
+pydot
+scikit-learn
+seaborn
+torch==1.13.1
+torchmetrics
+tqdm

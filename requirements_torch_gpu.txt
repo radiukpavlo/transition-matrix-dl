@@ -1,0 +1,15 @@
+jupyterlab
+ipywidgets
+widgetsnbextension
+matplotlib
+mlxtend
+notebook
+numpy
+pandas
+ydata-profiling
+pydot
+scikit-learn
+seaborn
+#torch==1.13.1
+torchmetrics
+tqdm
