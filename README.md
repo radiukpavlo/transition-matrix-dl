@@ -55,7 +55,7 @@ pip install torch==1.12.1 torchmetrics==0.11.0 opencv-python==4.7.0.68 diffusers
 ```
 
 ## Pre-trained models
-The model and checkpoints are available via folders .\model and .\checkpoints.
+The model and checkpoints are available via folders [**.\models**](https://github.com/radiukpavlo/transition-matrix-dl/tree/main/models) and [**.\checkpoints**](https://github.com/radiukpavlo/transition-matrix-dl/tree/main/checkpoints).
 
 ## Datasets
 The original datasets used in this research can be freely downloaded. 
